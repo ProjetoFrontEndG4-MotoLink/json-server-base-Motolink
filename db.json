@@ -4,8 +4,31 @@
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
-      "age": 38,
-      "id": 1
+      "id": 1,
+      "userType": "empresa",
+      "cnh": 122222333,
+      "plate": "111aa444",
+      "model": "honda",
+      "avatar": "https://4wrwrf3543rf"
+    },
+    {
+      "email": "teste@teste33.com",
+      "password": "$2a$10$QeFujm0rVJeWFHA.9//yiecSSyvHUhmMkDhU.rCDniCgcb0mcKeGi",
+      "nome": "Teste",
+      "type": "motoboy",
+      "id": 2
+    }
+  ],
+  "jobs": [
+    {
+      "name": "teste399",
+      "companyId": 1,
+      "partners": {
+        "name": "Motoboy1",
+        "partnerId": 1
+      },
+      "id": 1,
+      "status": true
     }
   ]
 }

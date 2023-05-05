@@ -20,15 +20,6 @@
     }
   ],
   "jobs": [
-    {
-      "name": "teste399",
-      "companyId": 1,
-      "partners": {
-        "name": "Motoboy1",
-        "partnerId": 1
-      },
-      "id": 1,
-      "status": true
-    }
+   
   ]
 }
